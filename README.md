@@ -2,7 +2,7 @@
 ETL project assignment1 to extract and combine data from different file formats
 
 # Packages Used :
-glob to handle file formats.
+glob to handle file formats "\n"
 pandas to read CSV and JSON files.
 xml.etree.ElementTree to parse XML data.
 datetime to track the progress of each phase through logging.
